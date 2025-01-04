@@ -1,0 +1,39 @@
+1
+00:00:00,300 --> 00:00:03,800
+Active Inspection Platform for Abnormal Road area
+
+2
+00:00:03,800 --> 00:00:06,000
+is an open platform to integrate satellite
+
+3
+00:00:06,000 --> 00:00:09,200
+and UAV data to innovate the road inspection process. 
+
+4
+00:00:09,600 --> 00:00:11,100
+By collecting satellite information,
+
+5
+00:00:11,100 --> 00:00:13,700
+the platform use unsupervised learning to
+
+6
+00:00:13,700 --> 00:00:15,900
+predict the hidden dangerous areas.
+
+7
+00:00:15,900 --> 00:00:19,600
+Then, the UAV combines the AI module to achieves road inspection.
+
+8
+00:00:20,600 --> 00:00:23,300
+This platform can improve the disaster response
+
+9
+00:00:23,300 --> 00:00:25,900
+and road maintenance for the public agency,
+
+10
+00:00:25,900 --> 00:00:29,600
+and reduce the  cost of road maintenance even in remote area.

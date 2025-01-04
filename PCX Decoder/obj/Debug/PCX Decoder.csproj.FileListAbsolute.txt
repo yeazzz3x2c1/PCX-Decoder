@@ -1,0 +1,20 @@
+C:\Users\zzz3x\Desktop\Work\PCX Decoder\PCX Decoder\bin\Debug\PCX Decoder.exe.config
+C:\Users\zzz3x\Desktop\Work\PCX Decoder\PCX Decoder\bin\Debug\PCX Decoder.exe
+C:\Users\zzz3x\Desktop\Work\PCX Decoder\PCX Decoder\bin\Debug\PCX Decoder.pdb
+C:\Users\zzz3x\Desktop\Work\PCX Decoder\PCX Decoder\obj\Debug\PCX Decoder.csprojAssemblyReference.cache
+C:\Users\zzz3x\Desktop\Work\PCX Decoder\PCX Decoder\obj\Debug\PCX_Decoder.Form1.resources
+C:\Users\zzz3x\Desktop\Work\PCX Decoder\PCX Decoder\obj\Debug\PCX_Decoder.Properties.Resources.resources
+C:\Users\zzz3x\Desktop\Work\PCX Decoder\PCX Decoder\obj\Debug\PCX Decoder.csproj.GenerateResource.cache
+C:\Users\zzz3x\Desktop\Work\PCX Decoder\PCX Decoder\obj\Debug\PCX Decoder.csproj.CoreCompileInputs.cache
+C:\Users\zzz3x\Desktop\Work\PCX Decoder\PCX Decoder\obj\Debug\PCX Decoder.exe
+C:\Users\zzz3x\Desktop\Work\PCX Decoder\PCX Decoder\obj\Debug\PCX Decoder.pdb
+F:\Desktop\Work\PCX Decoder\PCX Decoder\bin\Debug\PCX Decoder.exe.config
+F:\Desktop\Work\PCX Decoder\PCX Decoder\bin\Debug\PCX Decoder.exe
+F:\Desktop\Work\PCX Decoder\PCX Decoder\bin\Debug\PCX Decoder.pdb
+F:\Desktop\Work\PCX Decoder\PCX Decoder\obj\Debug\PCX Decoder.csproj.AssemblyReference.cache
+F:\Desktop\Work\PCX Decoder\PCX Decoder\obj\Debug\PCX_Decoder.Form1.resources
+F:\Desktop\Work\PCX Decoder\PCX Decoder\obj\Debug\PCX_Decoder.Properties.Resources.resources
+F:\Desktop\Work\PCX Decoder\PCX Decoder\obj\Debug\PCX Decoder.csproj.GenerateResource.cache
+F:\Desktop\Work\PCX Decoder\PCX Decoder\obj\Debug\PCX Decoder.csproj.CoreCompileInputs.cache
+F:\Desktop\Work\PCX Decoder\PCX Decoder\obj\Debug\PCX Decoder.exe
+F:\Desktop\Work\PCX Decoder\PCX Decoder\obj\Debug\PCX Decoder.pdb
