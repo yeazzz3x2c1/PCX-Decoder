@@ -1,4 +1,4 @@
-A tool for decode and display PCX file developed in C#.
+A tool for decoding and display PCX file developed in C#.
 
 # Contact
 Author: Feng-Hao Yeh
